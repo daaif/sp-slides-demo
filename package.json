@@ -7,8 +7,8 @@
     "serve": "ws --spa index.html"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Aziz Daaif",
+  "license": "MIT",
   "devDependencies": {
     "ws": "^7.0.0"
   }
